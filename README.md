@@ -1,8 +1,9 @@
+<img src="https://drive.google.com/file/d/1fcRtvEmF3JLyVi1vXE1PkgV9MCRylNGK/view" alt="Banner Image">
 # Hi there, I'm Afaf Ahmed Khan 👋
 
 ## About Me
 - 🔭 I'm currently in my final year of undergraduate studies pursuing a B.Tech in Computer Science.
-- 🎓 I hold a CGPA of 9.063/10 from MGM University, Aurangabad, India.
+- 🎓 I hold a CGPA of 8.99/10 from MGM University, Aurangabad, India.
 - 🌱 I'm passionate about software development, particularly in Python and web technologies.
 - 💼 I've interned at various companies, gaining experience in web development, Android development, and Python programming.
 - 📚 I enjoy learning new technologies and frameworks to enhance my skills.
