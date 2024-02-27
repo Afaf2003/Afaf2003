@@ -1,19 +1,62 @@
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1fcRtvEmF3JLyVi1vXE1PkgV9MCRylNGK/view?usp=drive_link">
-<h1 align="center">Hi 👋, I'm Afaf Ahmed Khan</h1>
-<h3 align="center">A Quick Learner of new Technologies</h3>
+# Hi there, I'm Afaf Ahmed Khan 👋
 
-- 🔭 I’m currently working on <b>College Recommendation System</b>
+## About Me
+- 🔭 I'm currently in my final year of undergraduate studies pursuing a B.Tech in Computer Science.
+- 🎓 I hold a CGPA of 9.063/10 from MGM University, Aurangabad, India.
+- 🌱 I'm passionate about software development, particularly in Python and web technologies.
+- 💼 I've interned at various companies, gaining experience in web development, Android development, and Python programming.
+- 📚 I enjoy learning new technologies and frameworks to enhance my skills.
 
-- 🌱 I’m currently learning **Data Science , Android development**
+## Education
+- **B.Tech in Computer Science** from MGM University, Aurangabad, India
+  - CGPA: 9.063/10
+- **Higher Secondary Education** from Maulana Azad Junior College, Aurangabad, India
+  - Percentage: 83.85
+- **Secondary Education** from Iqra Urdu Boy's School, Aurangabad, India
+  - PCM Percentage: 89.6
 
-- 📫 How to reach me **afafahmedkhan@gmail.com**
+## Skills
+### Programming Languages
+- Advanced: Python
+- Intermediate: C, Java
+- Novice: JavaScript
+### Tools/Platforms
+- Git VCS, VS Code, Eclipse, Android Studio
+### Databases
+- MySQL, MongoDB, SQLite
+### Web Frameworks
+- Node.js, Express.js, Flask
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/afaf ahmed khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="afaf ahmed khan" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/afaf ahmed khan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="afaf ahmed khan" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/afaf@2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="afaf@2003" height="30" width="40" /></a>
-</p>
+## Certifications
+- Web Development Course: [Certificate Link](certificate_url)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## Experience
+- **Persistent Systems | Summer Martian Internship**
+  - Gained expertise in Data Structures, Relational Databases, Linux, and Python.
+- **Code Clause | Android Development Intern**
+  - Developed user-friendly interfaces using Android Studio and Java.
+- **Solar Secure Solution | Web Development Intern**
+  - Worked on web development projects focusing on JavaScript frameworks.
+- **Oasis Infobyte | Java Development Intern**
+  - Created captivating games and online registration systems.
+- **Education 4OL | Python Development Intern**
+  - Developed email-sending feature with customizable parameters.
+
+## Projects
+- **College Recommendation System**
+  - Flask(Python) Framework, Machine Learning, SQLite
+  - GitHub: [Repository Link](college_recommendation_system_repo)
+- **Hospital Management System**
+  - HTML, CSS, JavaScript, Servlet, JSP, MySQL
+  - GitHub: [Repository Link](hospital_management_system_repo)
+- **Blood Bank Management System**
+  - HTML, CSS, JavaScript, Node.js, Express.js, MongoDB
+  - GitHub: [Repository Link](blood_bank_management_system_repo)
+
+## Connect with Me
+- GitHub: [Afaf2003](https://github.com/Afaf2003)
+- LinkedIn: [afafahmedkhan](https://www.linkedin.com/in/afafahmedkhan)
+- Hackerrank: [@afafahmedkhan](https://www.hackerrank.com/afafahmedkhan)
+- Email: afafahmedkhan@gmail.com
+- Phone: +91 7507327090
+- Location: Green Valley, Roza Bagh, Aurangabad- 431001
