@@ -1,4 +1,3 @@
-<img src="https://drive.google.com/file/d/1fcRtvEmF3JLyVi1vXE1PkgV9MCRylNGK/view" alt="Banner Image">
 # Hi there, I'm Afaf Ahmed Khan 👋
 
 ## About Me
