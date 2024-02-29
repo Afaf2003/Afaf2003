@@ -7,7 +7,7 @@
 - 💼 I've interned at various companies, gaining experience in web development, Android development, and Python programming.
 - 📚 I enjoy learning new technologies and frameworks to enhance my skills.
 
-## Connect with Me
+## Connect with Me 🌐 via
 - GitHub: [Afaf2003](https://github.com/Afaf2003)
 - LinkedIn: [afafahmedkhan](https://www.linkedin.com/in/afafahmedkhan)
 - Hackerrank: [@afafahmedkhan](https://www.hackerrank.com/afafahmedkhan)
