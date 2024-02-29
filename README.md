@@ -1,4 +1,4 @@
-![Brown Wood Minimalist Profile LinkedIn Banner](https://github.com/Afaf2003/Afaf2003/assets/97430020/ea197054-612f-4c16-be7a-46813da8cdf7)
+![Blue Corporate Linkedin Banner](https://github.com/Afaf2003/Object-Tracker/assets/97430020/2a68f3d5-f609-4fe6-aa25-2ebe707c147b)
 # Hi there, I'm Afaf Ahmed Khan 👋
 ## About Me
 - 🔭 I'm currently in my final year of undergraduate studies pursuing a B.Tech in Computer Science.
